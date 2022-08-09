@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Database.dat</file>
+        <file>4x4 copy.jpg</file>
+        <file>5x5 copy.jpg</file>
+        <file>10x10 copy.jpg</file>
+        <file>3x3 copy.jpg</file>
+        <file>Embaralhando copy.jpg</file>
+        <file>patihno.jpg</file>
+    </qresource>
+</RCC>
